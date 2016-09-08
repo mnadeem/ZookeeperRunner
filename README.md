@@ -49,14 +49,13 @@ _Modify the [RUNNER_HOME]/data/myid file to store the id you want_
 #### 4 How do I Run multiple instances of zookeeper on same machine ####
 
 ##### Step 1 : Copy/Paste 3 runners into your local drive
-##### Step 2 : Change zoo config in each instance
+##### Step 2 : Change zoo config for each instance
 
 * uncomment line number 31-33, in [RUNNER_HOME]/conf/zoo.cfg file
 * Make sure each instance has unique clientPort (Refer to FAQ#1)
+* Make sure each instance has unique NtService Name (Refer to FAQ#2)
 * Make sure each instance has unique myid (Refer to FAQ#3)
 
-##### Step 3 :  Make sure each instance has unique NtService Name
-Refer to FAQ#2
 
 ##### Step 4 :  Start each zookeeper instance
   
