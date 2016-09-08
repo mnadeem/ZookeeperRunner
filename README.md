@@ -1,10 +1,10 @@
 ## Zookeeper Runner ##
 
 
-After downloading the zip file copy your zookeeper related jar files and log4j.properties file [RUNNER_HOME]/lib based on your environment start the appropriate script, you are done.
+After downloading the zip file, copy your zookeeper related jar files, and log4j.properties file to [RUNNER_HOME]/lib, based on your environment start the appropriate script, you are done.
 
 Zookeeper Runner is based on [Java Service Wrapper][jswId]
-![Java Service Wrapper][jswImageId]
+
 
 
 ### FEATURES ###
@@ -74,4 +74,4 @@ Refer to FAQ#2
 ##### Step 4 :  Start each zookeeper instance
   
   [jswId]: http://wrapper.tanukisoftware.com/  "Java Service Wrapper"
-  [jswImageId]: http://wrapper.static.tanukisoftware.co.jp/images/jsw-logo.jpg "Java Service Wrapper"
+ 
