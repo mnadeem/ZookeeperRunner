@@ -57,7 +57,7 @@ _Modify the [RUNNER_HOME]/data/myid file to store the id you want_
 * Make sure each instance has unique myid (Refer to FAQ#3)
 
 
-##### Step 4 :  Start each zookeeper instance
+##### Step 3 :  Start each zookeeper instance
   
   [jswId]: http://wrapper.tanukisoftware.com/  "Java Service Wrapper"
  
