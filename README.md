@@ -1,23 +1,10 @@
 ## Zookeeper Runner ##
 
+Running Zookeeper (Even multiple instances) in windows is made so easy that even grandma can do it.
 
 After downloading the zip file, copy your zookeeper related jar files, and log4j.properties file to [RUNNER_HOME]/lib, based on your environment start the appropriate script, you are done.
 
 Zookeeper Runner is based on [Java Service Wrapper][jswId]
-
-
-
-### FEATURES ###
-
----
-
-* Pre bundled script which would allow you to manage jenkins instance in different environments seamlessly
-* Configurations can be changed/added very easily
-* Scripts supports init.d configuration and Windows Service modes
-* Upgrading jenkins is just a matter of replacing __jenkins.war__ in lib folder
-* Pre configured plugins can be provided with the bundle.
-* you can added other jar files easily in the class path
-* _application parameters_ and _jmv parameters_ can configured very easily
 
 
 
