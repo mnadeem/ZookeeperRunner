@@ -4,6 +4,8 @@ Running Zookeeper (Even multiple instances) in windows is made so easy that even
 
 After downloading the zip file, copy your zookeeper related jar files, and log4j.properties file to [RUNNER_HOME]/lib, based on your environment start the appropriate script, you are done.
 
+Refer [this blog post](https://reachmnadeem.wordpress.com/2016/09/10/running-multiple-zookeeper-instances-on-single-windows-machine/) for more details.
+
 Zookeeper Runner is based on [Java Service Wrapper][jswId]
 
 
